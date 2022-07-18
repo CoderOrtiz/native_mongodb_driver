@@ -1,0 +1,23 @@
+{
+  "name": "native_mongodb_driver",
+  "version": "1.0.0",
+  "description": "Practicing Working with The Native MongoDB Driver",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoderOrtiz/native_mongodb_driver.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CoderOrtiz/native_mongodb_driver/issues"
+  },
+  "homepage": "https://github.com/CoderOrtiz/native_mongodb_driver#readme",
+  "dependencies": {
+    "mongodb": "^4.8.0"
+  }
+}
