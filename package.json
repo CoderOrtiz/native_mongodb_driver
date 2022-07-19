@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/CoderOrtiz/native_mongodb_driver#readme",
   "dependencies": {
+    "assert": "^2.0.0",
     "mongodb": "^4.8.0"
   }
 }
